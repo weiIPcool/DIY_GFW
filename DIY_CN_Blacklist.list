@@ -1,5 +1,5 @@
 # 自定义国内代理-黑名单规则
-# 必须走代理规则
+# 必须走代理的规则
 
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-REGEX,dns-dynamic.*net
