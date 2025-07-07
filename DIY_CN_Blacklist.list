@@ -1,0 +1,3 @@
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-REGEX,dns-dynamic.*net
+DOMAIN-SUFFIX,dns-dynamic.net
