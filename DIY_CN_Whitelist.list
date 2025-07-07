@@ -3,10 +3,6 @@
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,nyc.mn
 DOMAIN-SUFFIX,dpdns.org
-RULE-SET,cn_domain
-RULE-SET,private_domain
-RULE-SET,cn_ip
-RULE-SET,github_domain
 DOMAIN-REGEX,10010.*com
 DOMAIN-REGEX,nyc.*mn
 DOMAIN-REGEX,dimpt.*com
