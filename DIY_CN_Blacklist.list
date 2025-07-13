@@ -2,5 +2,5 @@
 # 必须走代理的规则
 
 DOMAIN-SUFFIX,ghcr.io
-DOMAIN-REGEX,dns-dynamic.*net
+DOMAIN-REGEX,dns-dynamic\.net
 DOMAIN-SUFFIX,dns-dynamic.net
